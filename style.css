@@ -39,10 +39,12 @@
   margin: 0;
   padding: 0px;
 }
-.task-row, .list-name {
+.task-row,
+.list-name {
   list-style: none;
 }
-.input,.button{
+.input,
+.button {
   outline: none;
 }
 .button {
