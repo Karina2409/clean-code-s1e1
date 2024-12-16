@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.about-matrix-container { text-align: center;
-}
+  .about-matrix-container {
+    text-align: center;
+  }
 }
 .main-container {
   display: block;
